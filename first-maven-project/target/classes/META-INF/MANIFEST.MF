@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: first-maven-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ppathak5
+Implementation-Vendor-Id: com.prakash
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/first-maven-
+ project/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
